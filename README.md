@@ -8,7 +8,7 @@
 
 ## ビルド
 
-`ibpng` のソース一式を以下からダウンロードします。
+`libpng` のソース一式を以下からダウンロードします。
 `.tar.gz` 形式を選択してください。`zip` は改行コードの問題で `Linux` ビルドが通りません。
 
 - <http://www.libpng.org/pub/png/libpng.html>
